@@ -3,6 +3,7 @@
   25 APRIL 2020
   IDE: Repl.it 
   Program:  Factorial recursion
+  Learning Point: To learn recursion through solving factorials
   https://repl.it/@ChetLockwood/FactorialIRLockwood
 */
 
